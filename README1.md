@@ -7,4 +7,6 @@ Ovako se pisu promenljive
 
 <p>Ovo je paragraf</p>
 
+Paragraf 1 
+
 ***WOW***
