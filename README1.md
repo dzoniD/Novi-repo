@@ -5,4 +5,6 @@ Ovako se pisu promenljive
 
 <h1>  Paja Panda </h1>
 
+<p>Ovo je paragraf</p>
+
 ***WOW***
